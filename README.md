@@ -3429,4 +3429,4 @@ A lot of PoC is available to exploit this vulnerability.
 
 [https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/drupal)
 
-[https://academy.hackthebox.com/module/113/section/1209](https://academy.hackthebox.com/module/113/section/1209)
+
